@@ -60,10 +60,10 @@ This project is an example of an object-oriented program that simulates a pet sh
 ### Getting Started
 
 ### Prerequisites
-Python 3.x
-unittest library
-A text editor
-SQL (for the SQL Tasks)
+- Python 3.x
+- unittest library
+- A text editor
+-
 
 ### Installing
 Clone the repository to your local machine
